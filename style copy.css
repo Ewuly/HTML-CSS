@@ -1,0 +1,98 @@
+
+
+
+
+/* p.error{
+    color: red;
+}
+p.success{
+    color: #09d409;
+}
+p.success.feedback{
+    border: 1px dashed #7962e2;
+}
+#content{
+    background-color: #ebebeb;
+    padding: 20px;
+} */
+/* div .error{
+    color: red;
+} */
+/* a[href]{
+    background-color: #3dd13d;
+} */
+/* a[href*="youtube"]{
+    background-color: #3dd13d;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+a[href$=".com"]{
+    background: red;
+    color: white;
+    border: 2px solid blue;
+} */
+
+/* div{
+    color: lightcoral;
+    border: 1px solid gray;
+    margin: 40px;
+    font-weight: bold;
+    justify-content: center;
+}
+div p{
+    border: inherit;
+    margin: inherit;
+    color: blue;
+}
+p{
+    color: orange;
+}
+a{
+    justify-content: center;
+} */
+
+/* span{
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+}
+div{
+    display: inline;
+    border: 2px solid crimson;
+    margin: 20px;
+    padding: 20px;
+} */
+
+
+/* h1{
+    color: orange;
+    background-color: slategray;
+    font-size: 20px;
+    text-decoration: underline;
+    font-family: arial;
+    text-align: center;
+}
+p{
+    color: slategray;
+    text-align: right;
+    line-height: 20px;
+    letter-spacing: 0.5px;
+    column-count: 2;
+    column-gap: 30px;
+}
+ul{
+    border-width: 4px;
+    border-style: solid;
+    border-color: crimson;
+    border: 4px solid crimson;
+    border-bottom: 4px solid crimson;
+    border-left: 8px dashed crimson;
+    border-right: 8px dotted rgb(83, 218, 21);
+}
+li{
+    list-style-type: none;
+    text-shadow: 2px 2px lightgray;
+    text-shadow: 2px 2px #E9E9E9;
+} */
